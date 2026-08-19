@@ -56,7 +56,7 @@ job-market-tracker/
 - `pulled_date` vs `posted_date` separation to enable time-on-market analysis later
 - Fully automated via GitHub Actions — runs every Monday, commits updated `.db` back to repo
 
-**Phase 2 — NLP skill extraction**  (In progress)
+**Phase 2 — NLP skill extraction**  
 - Parse job descriptions to extract mentioned tools and skills (Python, SQL, Tableau, etc.)
 - Rank skills by frequency and track how demand shifts week to week
 
