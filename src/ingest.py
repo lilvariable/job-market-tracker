@@ -66,6 +66,7 @@ def fetch_postings(query: str) -> list[dict]:
                 "company": (job.get("company") or {}).get("display_name"),
                 "location": (job.get("location") or {}).get("display_name"),
                 "description": job.get("description"),
+                "redirect_url": job.get("redirect_url"),
                 "salary_min": job.get("salary_min"),
                 "salary_max": job.get("salary_max"),
                 "category": (job.get("category") or {}).get("label"),
