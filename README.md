@@ -2,6 +2,9 @@
 
 An end-to-end data pipeline that tracks entry-level data science, data engineering, and business analyst job postings over time — built as a portfolio project to demonstrate ETL, NLP, and data visualization skills.
 
+Dashboard Link:
+https://data-job-market-tracker.streamlit.app/
+
 ---
 
 ## What it does
