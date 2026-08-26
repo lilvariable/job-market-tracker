@@ -22,7 +22,7 @@ The database accumulates automatically — every Monday a new batch is pulled an
 | Data ingestion | Python, Requests, Adzuna REST API |
 | Storage | SQLite |
 | Automation | GitHub Actions (weekly cron) |
-| NLP (Phase 2) | spaCy / NLTK (in progress) |
+| NLP (Phase 2) | spaCy / NLTK |
 | Dashboard | Streamlit |
 | Analysis | pandas, matplotlib |
 
